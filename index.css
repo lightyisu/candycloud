@@ -1,0 +1,62 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: 100%;
+    background-color: #FF5757;
+    margin: 0;
+}
+section{
+    width: 100%;
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+}
+
+#logo{
+    width: 30vw;
+    position: relative;
+    top: 4vw;
+    left: 7vw;
+}
+section h2{
+    position: absolute;
+    font-size: 9vw;
+    display: inline;
+    right:9vw;
+    top: 6vw;
+    color: white;
+   
+}
+div{
+    height: 100%;
+}
+#btn1{
+   
+   left: 2vw;
+    background-image: url(./btn1.png);
+  
+  
+}
+#btn2{
+  
+ 
+
+ right: 10vw;
+ background-image: url(./btn2.png);
+ background-repeat: no-repeat;
+}
+button{
+    padding: 20px;
+    font-weight: bold;
+  position: absolute;
+  bottom: 20vh;
+    outline: none;
+    border: none;
+   cursor: pointer;
+    background-size: cover;
+}
+
+div{
+    position: relative;
+}
